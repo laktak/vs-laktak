@@ -1,2 +1,3 @@
-# vs-laktak
-VS Theme
+# laktak Theme for Visual Studio
+
+Install using the Visual Studio "Color Theme Editor".
